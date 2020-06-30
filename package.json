@@ -20,7 +20,7 @@
   },
   "config": {
     "xcraft": {
-      "commands": true
+      "commands": false
     }
   },
   "author": "Mathieu Schroeter",
