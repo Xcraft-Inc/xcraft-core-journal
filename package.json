@@ -1,0 +1,41 @@
+{
+  "name": "xcraft-core-journal",
+  "version": "0.1.0",
+  "description": "Xcraft journal",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xcraft",
+    "logs",
+    "journal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xcraft-Inc/xcraft-core-journal.git"
+  },
+  "config": {
+    "xcraft": {
+      "commands": true
+    }
+  },
+  "author": "Mathieu Schroeter",
+  "license": "MIT",
+  "dependencies": {
+    "rotating-file-stream": "^2.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Xcraft-Inc/xcraft-core-journal/issues"
+  },
+  "homepage": "https://github.com/Xcraft-Inc/xcraft-core-journal#readme",
+  "devDependencies": {
+    "prettier": "2.0.4",
+    "xcraft-dev-prettier": "^2.0.0",
+    "xcraft-dev-rules": "^2.0.0"
+  },
+  "prettier": "xcraft-dev-prettier"
+}
