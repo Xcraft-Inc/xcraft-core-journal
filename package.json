@@ -26,8 +26,8 @@
   "author": "Mathieu Schroeter",
   "license": "MIT",
   "dependencies": {
-    "rotating-file-stream": "^2.1.1",
-    "xcraft-core-etc": "^3.0.0"
+    "rotating-file-stream": "^3.2.6",
+    "xcraft-core-etc": "^3.5.0"
   },
   "bugs": {
     "url": "https://github.com/Xcraft-Inc/xcraft-core-journal/issues"
