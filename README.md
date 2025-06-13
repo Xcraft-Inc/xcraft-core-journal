@@ -52,9 +52,10 @@ xLog.err("Message d'erreur");
 
 ```
 var/log/xcraft/
-├── xcraft.myapp.log              # Fichier actuel
-├── xcraft.myapp.log.1.gz         # Rotation précédente
-├── xcraft.myapp.log.2.gz         # Plus ancienne
+├── xcraft.host.log                       # Fichier actuel
+├── 20250613-0936-01-xcraft.host.log.gz   # Rotation précédente
+├── 20250613-0936-02-xcraft.host.log.gz   # Plus ancienne
+├── 20250613-0824-01-xcraft.host.log.gz   # Plus ancienne
 └── ...
 ```
 
