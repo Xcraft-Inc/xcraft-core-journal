@@ -1,6 +1,6 @@
 {
   "name": "xcraft-core-journal",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "description": "Xcraft journal",
   "main": "lib/index.js",
   "engines": {
