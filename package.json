@@ -23,7 +23,12 @@
       "commands": false
     }
   },
-  "author": "Mathieu Schroeter",
+  "author": "Epsitec SA",
+  "contributors": [
+    "Mathieu Schroeter <schroeter@epsitec.ch>",
+    "Samuel Loup <loup@epsitec.ch>",
+    "Gillian Fries <fries@epsitec.ch>"
+  ],
   "license": "MIT",
   "dependencies": {
     "rotating-file-stream": "^3.2.6",
